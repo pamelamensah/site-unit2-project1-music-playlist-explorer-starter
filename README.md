@@ -132,7 +132,7 @@ Deployed Application (**required**): [Music Playlist Explorer Deployed Site](ADD
 
 ### Walkthrough Video
 
-`<iframe src="https://www.loom.com/embed/6613fe8418ba461fafee9b1db56815f8?sid=4b3b02c4-587c-4728-9db0-7e5a148d005e" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe>`
+You can watch a full video walkthrough of the application here: [Music Playlist Explorer Walkthrough on Loom](https://www.loom.com/share/6613fe8418ba461fafee9b1db56815f8?sid=289a6e84-f69e-47ec-aa90-638d23173910)
 
 ### Reflection
 
