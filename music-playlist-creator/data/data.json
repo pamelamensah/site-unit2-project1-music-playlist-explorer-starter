@@ -1,0 +1,795 @@
+{
+  "playlists": [
+    {
+      "playlistID": 1,
+      "playlist_name": "Today's Top Hits",
+      "playlist_author": "Alice",
+      "playlist_art": "assets/img/playlist_1.png",
+      "likes": 42,
+      "songs": [
+        {
+          "songID": 101,
+          "title": "Manchild",
+          "artist": "Sabrina Carpenter",
+          "duration": "3:33",
+          "cover": "assets/img/101.png"
+        },
+        {
+          "songID": 102,
+          "title": "Ordinary",
+          "artist": "Alex Warren",
+          "duration": "3:06",
+          "cover":"assets/img/102.png"
+        },
+        {
+          "songID": 103,
+          "title": "back to friends",
+          "artist": "sombr",
+          "duration": "3:19",
+          "cover": "assets/img/103.png"
+        },
+        {
+          "songID": 104,
+          "title": "Die Wih A Smile",
+          "artist": "Lady Gaga, Bruno Mars",
+          "duration": "4:11",
+          "cover": "assets/img/104.png"
+        },
+        {
+          "songID": 105,
+          "title": "That's So True",
+          "artist": "Gracie Abrams",
+          "duration": "2:46",
+          "cover": "assets/img/105.png"
+        },
+        {
+          "songID": 106,
+          "title": "Love Me Not",
+          "artist": "Ravyn Lenae",
+          "duration": "3:33",
+          "cover": "assets/img/106.png"
+        },
+        {
+          "songID": 107,
+          "title": "Just Keep Watching",
+          "artist": "Tate McRae, F1 The Movie",
+          "duration": "2:22",
+          "cover": "assets/img/107.png"
+        },
+        {
+          "songID": 108,
+          "title": "BIRDS OF A FEATHER",
+          "artist": "Billie Eilish",
+          "duration": "3:30",
+          "cover": "assets/img/108.png"
+        },
+        {
+          "songID": 109,
+          "title": "Bad Dreams",
+          "artist": "Teddy Swims",
+          "duration": "3:04",
+          "cover": "assets/img/109.png"
+        },
+        {
+          "songID": 110,
+          "title": "luther(wth sza)",
+          "artist": "Kendrick Lamar, SZA",
+          "duration": "2:57",
+          "cover": "assets/img/110.png"
+        }
+      ]
+    },
+    {
+      "playlistID": 2,
+      "playlist_name": "Release Radar",
+      "playlist_author": "Bob",
+      "playlist_art": "assets/img/playlist_2.png",
+      "likes": 58,
+      "songs": [
+        {
+          "songID": 201,
+          "title": "Manchild",
+          "artist": "Sabrina Carpenter",
+          "duration": "3:30",
+          "cover": "assets/img/201.png"
+        },
+        {
+          "songID": 202,
+          "title": "Times Like These",
+          "artist": "Addison Rae",
+          "duration": "2:50",
+          "cover": "assets/img/202.png"
+        },
+        {
+          "songID": 203,
+          "title": "Peter and the Wolf",
+          "artist": "Patrick Watson",
+          "duration": "4:10",
+          "cover": "assets/img/203.png"
+        },
+        {
+          "songID": 204,
+          "title": "Best For Me",
+          "artist": "Cynthia Erivo",
+          "duration": "3:45",
+          "cover": "assets/img/204.png"
+        },
+        {
+          "songID": 205,
+          "title": "Che Che (feat. Asake)",
+          "artist": "Young Jonn, Asake",
+          "duration": "4:55",
+          "cover": "assets/img/205.png"
+        },
+        {
+          "songID": 206,
+          "title": "Shoulder",
+          "artist": "Medikal, Shatta Wale, Beeztrap KOTM",
+          "duration": "3:20",
+          "cover": "assets/img/206.png"
+        },
+        {
+          "songID": 207,
+          "title": "OMG!(From F1 The Movie)",
+          "artist": "Tiësto, Sexyy Red, F1 The Album",
+          "duration": "4:25",
+          "cover": "assets/img/207.png"
+        },
+        {
+          "songID": 208,
+          "title": "MODERN TIMES(fear, Jon Batiste)",
+          "artist": "Jon Bellion, Jon Batiste)",
+          "duration": "5:05",
+          "cover": "assets/img/208.png"
+        },
+        {
+          "songID": 209,
+          "title": "RUN MY FADE",
+          "artist": "The Bashmen, Jidenna, Swanky, Kelechief",
+          "duration": "3:50",
+          "cover": "assets/img/209.png"
+        },
+        {
+          "songID": 210,
+          "title": "Agar Tum Mil Jao - Trending Version",
+          "artist": "Shreya Ghoshal, Roop Kimar Rathod",
+          "duration": "4:35",
+          "cover": "assets/img/210.png"
+        }
+      ]
+    },
+    {
+      "playlistID": 3,
+      "playlist_name": "Viva Latino",
+      "playlist_author": "Charlie",
+      "playlist_art": "assets/img/playlist_3.png",
+      "likes": 75,
+      "songs": [
+        {
+          "songID": 301,
+          "title": "TU SANCHO",
+          "artist": "Fuerza Regida",
+          "duration": "2:57",
+          "cover": "assets/img/301.png"
+        },
+        {
+          "songID": 302,
+          "title": "EoO",
+          "artist": "Bad Bunny",
+          "duration": "3:24",
+          "cover": "assets/img/302.png"
+        },
+        {
+          "songID": 303,
+          "title": "LATINA FOREVER",
+          "artist": "Karol G",
+          "duration": "2:39",
+          "cover": "assets/img/303.png"
+        },
+        {
+          "songID": 304,
+          "title": "Hiekka",
+          "artist": "Nicky Jam, Beéle",
+          "duration": "3:33",
+          "cover": "assets/img/304.png"
+        },
+        {
+          "songID": 305,
+          "title": "PERVERSA",
+          "artist": "Pedro Sampaio, J Balvin, Take a Daytrip",
+          "duration": "2:12",
+          "cover": "assets/img/305.png"
+        },
+        {
+          "songID": 306,
+          "title": "Santa",
+          "artist": "Rvssian, Rauw Alejandro, Ayra Starr",
+          "duration": "3:13",
+          "cover": "assets/img/306.png"
+        },
+        {
+          "songID": 307,
+          "title": "En Privado",
+          "artist": "Xavi, Manuel Turizo",
+          "duration": "3:19",
+          "cover": "assets/img/307.png"
+        },
+        {
+          "songID": 308,
+          "title": "Milagro",
+          "artist": "Sebstian Yatra",
+          "duration": "2:48",
+          "cover": "assets/img/308.png"
+        },
+        {
+          "songID": 309,
+          "title": "no tiene sentido",
+          "artist": "Beéle",
+          "duration": "2:38",
+          "cover": "assets/img/309.png"
+        },
+        {
+          "songID": 310,
+          "title": "AURORA",
+          "artist": "Mora, De La Rose",
+          "duration": "3:12",
+          "cover": "assets/img/310.png"
+        }
+      ]
+    },
+    {
+      "playlistID": 4,
+      "playlist_name": "Daylist",
+      "playlist_author": "Diana",
+      "playlist_art": "assets/img/playlist_4.png",
+      "likes": 30,
+      "songs": [
+        {
+          "songID": 401,
+          "title": "Can I Call You Rose?",
+          "artist": "Thee Sacred Souls",
+          "duration": "5:00",
+          "cover": "assets/img/401.png"
+        },
+        {
+          "songID": 402,
+          "title": "Ex-Factor",
+          "artist": "Ms.Lauryn Hil",
+          "duration": "4:15",
+          "cover": "assets/img/402.png"
+        },
+        {
+          "songID": 403,
+          "title": "You Don't Know My Name",
+          "artist": "Alicia Keya",
+          "duration": "3:55",
+          "cover": "assets/img/403.png"
+        },
+        {
+          "songID": 404,
+          "title": "Worth It",
+          "artist": "RAYE",
+          "duration": "4:40",
+          "cover": "assets/img/404.png"
+        },
+        {
+          "songID": 405,
+          "title": "MUTT",
+          "artist": "Leon Thomas",
+          "duration": "5:30",
+          "cover": "assets/img/405.png"
+        },
+        {
+          "songID": 406,
+          "title": "If You Don't Want My Love",
+          "artist": "Jalen Ngonda",
+          "duration": "4:05",
+          "cover": "assets/img/406.png"
+        },
+        {
+          "songID": 407,
+          "title": "Life Will Be",
+          "artist": "Cleo Sol",
+          "duration": "4:25",
+          "cover": "assets/img/407.png"
+        },
+        {
+          "songID": 408,
+          "title": "Can't Take My Eyes Off of You - (I Love You)",
+          "artist": "Ms.Lauryn Hil",
+          "duration": "3:50",
+          "cover": "assets/img/408.png"
+        },
+        {
+          "songID": 409,
+          "title": "Easier Said Than Done",
+          "artist": "Thee Sacred Souls",
+          "duration": "4:35",
+          "cover": "assets/img/409.png"
+        },
+        {
+          "songID": 410,
+          "title": "Hell N Back(feat.Summer Walker)",
+          "artist": "Bakar, Summer Walker",
+          "duration": "5:20",
+          "cover": "assets/img/410.png"
+        }
+      ]
+    },
+    {
+      "playlistID": 5,
+      "playlist_name": "Bollywood Central",
+      "playlist_author": "Eve",
+      "playlist_art": "assets/img/playlist_5.png",
+      "likes": 90,
+      "songs": [
+        {
+          "songID": 501,
+          "title": "What Jhumka? (From 'Rocky Aur Rani Kii Prem Kahaani')",
+          "artist": "Pritam",
+          "duration": "3:33",
+          "cover": "assets/img/501.png"
+        },
+        {
+          "songID": 502,
+          "title": "Akhiyaan Gulaab",
+          "artist": "Mitraz",
+          "duration": "2:51",
+          "cover": "assets/img/502.png"
+        },
+        {
+          "songID": 503,
+          "title": "Tere Pyaar Mein",
+          "artist": "Pritam",
+          "duration": "4:26",
+          "cover": "assets/img/503.png"
+        },
+        {
+          "songID": 504,
+          "title": "Besharam Rang(From 'Pathaan')",
+          "artist": "Vishal-Shekhar",
+          "duration": "4:18",
+          "cover": "assets/img/504.png"
+        },
+        {
+          "songID": 505,
+          "title": "Naina('From Crew')",
+          "artist": "Diljit Dosanjh",
+          "duration": "3:00",
+          "cover": "assets/img/505.png"
+        },
+        {
+          "songID": 506,
+          "title": "Laal Pari(From 'Houseful 5')",
+          "artist": "Yo Yo Honey Singh",
+          "duration": "4:16",
+          "cover": "assets/img/506.png"
+        },
+        {
+          "songID": 507,
+          "title": "Tum Se (From 'Teri Baaton Mein Aisa Uljha Jiya')",
+          "artist": "Sachin-Jigar",
+          "duration": "4:24",
+          "cover": "assets/img/507.png"
+        },
+        {
+          "songID": 508,
+          "title": "Raanjhan",
+          "artist": "Sachet-Parampara",
+          "duration": "4:00",
+          "cover": "assets/img/508.png"
+        },
+        {
+          "songID": 509,
+          "title": "Jaana Samjho Na",
+          "artist": "Aditya Rikhari",
+          "duration": "3:32",
+          "cover": "assets/img/509.png"
+        },
+        {
+          "songID": 510,
+          "title": "Chaleya",
+          "artist": "Anirudh Ravichander",
+          "duration": "3:20",
+          "cover": "assets/img/510.png"
+        }
+      ]
+    },
+    {
+      "playlistID": 6,
+      "playlist_name": "On Repeat",
+      "playlist_author": "Frank",
+      "playlist_art": "assets/img/playlist_6.png",
+      "likes": 25,
+      "songs": [
+        {
+          "songID": 601,
+          "title": "Love Me Not",
+          "artist": "Ravyn Lenae",
+          "duration": "3:55",
+          "cover": "assets/img/601.png"
+        },
+        {
+          "songID": 602,
+          "title": "No One Noticed",
+          "artist": "The Marias",
+          "duration": "4:05",
+          "cover": "assets/img/602.png"
+        },
+        {
+          "songID": 603,
+          "title": "DTMF",
+          "artist": "Bad Bunny",
+          "duration": "4:30",
+          "cover": "assets/img/603.png"
+        },
+        {
+          "songID": 604,
+          "title": "Deewani Mastani",
+          "artist": "Shreya Ghoshal",
+          "duration": "5:10",
+          "cover": "assets/img/604.png"
+        },
+        {
+          "songID": 605,
+          "title": "luther(wth sza)",
+          "artist": "Kendrick Lamar, SZA",
+          "duration": "4:20",
+          "cover": "assets/img/605.png"
+        },
+        {
+          "songID": 606,
+          "title": "Sinnerman",
+          "artist": "Nina Simone",
+          "duration": "3:45",
+          "cover": "assets/img/606.png"
+        },
+        {
+          "songID": 607,
+          "title": "Nuevayol",
+          "artist": "Bad Bunny",
+          "duration": "4:50",
+          "cover": "assets/img/607.png"
+        },
+        {
+          "songID": 608,
+          "title": "Too Sweet",
+          "artist": "Hozier",
+          "duration": "5:25",
+          "cover": "assets/img/608.png"
+        },
+        {
+          "songID": 609,
+          "title": "Messy",
+          "artist": "Lola Young",
+          "duration": "4:35",
+          "cover": "assets/img/609.png"
+        },
+        {
+          "songID": 610,
+          "title": "Like Him",
+          "artist": "Tyler, The Creator, Lola Young",
+          "duration": "5:00",
+          "cover": "assets/img/610.png"
+        }
+      ]
+    },
+    {
+      "playlistID": 7,
+      "playlist_name": "Pop Rising",
+      "playlist_author": "Grace",
+      "playlist_art": "assets/img/playlist_7.png",
+      "likes": 65,
+      "songs": [
+        {
+          "songID": 701,
+          "title": "Fame is a Gun",
+          "artist": "Addison Rae",
+          "duration": "3:03",
+          "cover": "assets/img/701.png"
+        },
+        {
+          "songID": 702,
+          "title": "Manchild",
+          "artist": "Sabrina Carpenter",
+          "duration": "3:33",
+          "cover": "assets/img/702.png"
+        },
+        {
+          "songID": 703,
+          "title": "Touch Me Like a Gangster",
+          "artist": "Jessie Murph",
+          "duration": "2:43",
+          "cover": "assets/img/703.png"
+        },
+        {
+          "songID": 704,
+          "title": "Just Keep Watching",
+          "artist": "Tate McRae, F1 The Movie",
+          "duration": "2:22",
+          "cover": "assets/img/704.png"
+        },
+        {
+          "songID": 705,
+          "title": "One Thing",
+          "artist": "Lola Young",
+          "duration": "3:28",
+          "cover": "assets/img/705.png"
+        },
+        {
+          "songID": 706,
+          "title": "Easy Lover",
+          "artist": "Miley Cyrus",
+          "duration": "3:06",
+          "cover": "assets/img/706.png"
+        },
+        {
+          "songID": 707,
+          "title": "Sue me",
+          "artist": "Audrey Hobert",
+          "duration": "2:50",
+          "cover": "assets/img/707.png"
+        },
+        {
+          "songID": 708,
+          "title": "God Went Crazy",
+          "artist": "Teddy Swims",
+          "duration": "3:03",
+          "cover": "assets/img/708.png"
+        },
+        {
+          "songID": 709,
+          "title": "Sapphire",
+          "artist": "Ed Sheeran",
+          "duration": "2:59",
+          "cover": "assets/img/709.png"
+        },
+        {
+          "songID": 710,
+          "title": "Bliss",
+          "artist": "Tyla",
+          "duration": "2:40",
+          "cover": "assets/img/710.png"
+        }
+      ]
+    },
+    {
+      "playlistID": 8,
+      "playlist_name": "Hot Rythmic",
+      "playlist_author": "Hannah",
+      "playlist_art": "assets/img/playlist_8.png",
+      "likes": 40,
+      "songs": [
+        {
+          "songID": 801,
+          "title": "ALL IN",
+          "artist": "Ty Dolla Sign",
+          "duration": "2:16",
+          "cover": "assets/img/801.png"
+        },
+        {
+          "songID": 802,
+          "title": "NOKIA",
+          "artist": "Drake",
+          "duration": "4:06",
+          "cover": "assets/img/802.png"
+        },
+        {
+          "songID": 803,
+          "title": "Residuals",
+          "artist": "Chris Brown",
+          "duration": "3:35",
+          "cover": "assets/img/803.png"
+        },
+        {
+          "songID": 804,
+          "title": "KEHLANI (REMIX) (feat. Kehlani)",
+          "artist": "Jordan Adetunji, KEHLANI",
+          "duration": "2:59",
+          "cover": "assets/img/804.png"
+        },
+        {
+          "songID": 805,
+          "title": "WHATCHU KNO ABOUT ME(feat. Sexyy Red)",
+          "artist": "GloRilla, Sexyy Red",
+          "duration": "2:29",
+          "cover": "assets/img/805.png"
+        },
+        {
+          "songID": 806,
+          "title": "Typa",
+          "artist": "GloRilla",
+          "duration": "2:04",
+          "cover": "assets/img/806.png"
+        },
+        {
+          "songID": 807,
+          "title": "Show Me Love",
+          "artist": "WizTheMc, bees & honey",
+          "duration": "4:20",
+          "cover": "assets/img/807.png"
+        },
+        {
+          "songID": 808,
+          "title": "30 For 30(with Kendrick Lamar)",
+          "artist": "SZA, Kendrick Lamar",
+          "duration": "4:38",
+          "cover": "assets/img/808.png"
+        },
+        {
+          "songID": 809,
+          "title": "The Days(feat. Bono)",
+          "artist": "Lil Wayne, Bono",
+          "duration": "4:21",
+          "cover": "assets/img/809.png"
+        },
+        {
+          "songID": 810,
+          "title": "MUTT",
+          "artist": "Leon Thomas",
+          "duration": "3:13",
+          "cover": "assets/img/810.png"
+        }
+
+      ]
+    },
+    {
+      "playlistID": 9,
+      "playlist_name": "K-Pop ON!(온)",
+      "playlist_author": "Ian",
+      "playlist_art": "assets/img/playlist_9.png",
+      "likes": 55,
+      "songs": [
+        {
+          "songID": 901,
+          "title": "Bad Desire(With or Without You)",
+          "artist": "ENHYPEN",
+          "duration": "2:21",
+          "cover": "assets/img/901.png"
+        },
+        {
+          "songID": 902,
+          "title": "THUNDER",
+          "artist": "SEVENTEEN",
+          "duration": "2:44",
+          "cover": "assets/img/902.png"
+        },
+        {
+          "songID": 903,
+          "title": "Good Thing",
+          "artist": "i-dle",
+          "duration": "2:34",
+          "cover": "assets/img/903.png"
+        },
+        {
+          "songID": 904,
+          "title": "Love Language",
+          "artist": "TOMORROW X TOGETHER",
+          "duration": "2:57",
+          "cover": "assets/img/904.png"
+        },
+        {
+          "songID": 905,
+          "title": "HANDS UP",
+          "artist": "MEOVV",
+          "duration": "3:12",
+          "cover": "assets/img/905.png"
+        },
+        {
+          "songID": 906,
+          "title": "Gnarly",
+          "artist": "KATSEYE",
+          "duration": "2:17",
+          "cover": "assets/img/906.png"
+        },
+        {
+          "songID": 907,
+          "title": "like JENNIE",
+          "artist": "JENNIE",
+          "duration": "2:03",
+          "cover": "assets/img/907.png"
+        },
+        {
+          "songID": 908,
+          "title": "Don't Say You Love Me",
+          "artist": "Jin",
+          "duration": "3:00",
+          "cover": "assets/img/908.png"
+        },
+        {
+          "songID": 909,
+          "title": "Girls Will Be Girls",
+          "artist": "ITZY",
+          "duration": "2:48",
+          "cover": "assets/img/909.png"
+        },
+        {
+          "songID": 910,
+          "title": "Messy(From F1 The Movie)",
+          "artist": "ROSÉ, F1 The Album",
+          "duration": "2:39",
+          "cover": "assets/img/910.png"
+        }
+      ]
+    },
+    {
+      "playlistID": 10,
+      "playlist_name": "Afropop",
+      "playlist_author": "Jack",
+      "playlist_art": "assets/img/playlist_10.png",
+      "likes": 20,
+      "songs": [
+        {
+          "songID": 1001,
+          "title": "Very Soon",
+          "artist": "BNXN, FOLA",
+          "duration": "2:17",
+          "cover": "assets/img/1001.png"
+        },
+        {
+          "songID": 1002,
+          "title": "Gimme Dat(feat. Wizkid)",
+          "artist": "Ayra Starr, Wizkid",
+          "duration": "3:45",
+          "cover": "assets/img/1002.png"
+        },
+        {
+          "songID": 1003,
+          "title": "Mwah!",
+          "artist": "Lojay, Odeal",
+          "duration": "2:08",
+          "cover": "assets/img/1003.png"
+        },
+        {
+          "songID": 1004,
+          "title": "Bout U",
+          "artist": "Rema",
+          "duration": "2:43",
+          "cover": "assets/img/1004.png"
+        },
+        {
+          "songID": 1005,
+          "title": "Lomo Lomo",
+          "artist": "KiDi, Black Sheriff",
+          "duration": "2:55",
+          "cover": "assets/img/1005.png"
+        },
+        {
+          "songID": 1006,
+          "title": "Asylum",
+          "artist": "Olivetheboy",
+          "duration": "3:02",
+          "cover": "assets/img/1006.png"
+        },
+        {
+          "songID": 1007,
+          "title": "Higher",
+          "artist": "Burna Boy",
+          "duration": "2:17",
+          "cover": "assets/img/1007.png"
+        },
+        {
+          "songID": 1008,
+          "title": "everyday",
+          "artist": "Fireboy DML",
+          "duration": "2:46",
+          "cover": "assets/img/1008.png"
+        },
+        {
+          "songID": 1009,
+          "title": "Okay",
+          "artist": "Magixx",
+          "duration": "2:32",
+          "cover": "assets/img/1009.png"
+        },
+        {
+          "songID": 1010,
+          "title": "YBIL (You Believe in Love)(feat. Kizz Daniel)",
+          "artist": "Qing Madi, Kizz Daniel",
+          "duration": "3:15",
+          "cover": "assets/img/1010.png"
+        }
+        ]
+    }
+  ]
+}

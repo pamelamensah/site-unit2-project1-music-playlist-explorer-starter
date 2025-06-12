@@ -1,27 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <title>Music Playlist Explorer</title>
-    <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
-    
-    <link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Music Playlist Explorer</title>
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
+
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    <header>
-        <!-- Your header content here -->
-    </header>
+  <header>
+  <div class="header-left">
+    <a href="index.html">
+      <img src="assets/img/Spotify_Primary_Logo_RGB_Green.png" alt="Logo" class="logo" />
+    </a>
+    <h1>Music Playlist Explorer</h1>
+  </div>
+  <nav>
+    <a href="featured.html">Featured</a>
+    <a href="index.html">All</a>
+  </nav>
+  </header>
 
-    <main> 
-        <!-- Your main content here -->
-    </main>
 
-    <footer>
-        <!-- Your footer content here -->
+  <main>
+    <div id="playlist-container" class="playlist-container"></div>
+    <p id="empty-message" style="display: none;">No playlists added.</p>
+    <button id="open-add-playlist-modal" class="add-playlist-button">+ Add New Playlist</button>
+    <div id="playlist-modal" class="modal" role="dialog" aria-modal="true">
+      <div class="modal-content">
+        <span class = "close-button">&times;</span>
+        <img id="modal-art" src="" alt="Cover Art" />
+        <button class ="shuffle-button">&#x1F500;</button>
+        <h3 id="modal-name"></h3>
+        <p id="modal-author"></p>
+        <ul id="modal-songs"></ul>
+      </div>
+    </div>
+
+    <div id="add-playlist-modal" class="modal">
+        <div class="modal-content">
+            <span class="close-button add-playlist-close-button">&times;</span>
+            <h2>Create New Playlist</h2>
+            <form id="add-playlist-form">
+                <label for="playlist_name">Playlist Name:</label>
+                <input type="text" id="playlist_name" placeholder="Playlist Name" required />
+
+                <label for="playlist_author">Author:</label>
+                <input type="text" id="playlist_author" placeholder="Author" required />
+
+                <label for="playlist_art">Cover Art URL:</label>
+                <input type="url" id="playlist_art" placeholder="Image URL (e.g., http://example.com/image.jpg)" required />
+
+                <label for="songs">Songs (Title, Artist, Duration - one per line):</label>
+                <textarea id="songs" placeholder="Song 1 Title, Artist 1, Duration 1&#10;Song 2 Title, Artist 2, Duration 2" rows="6" required></textarea>
+
+                <button type="submit">Add Playlist</button>
+            </form>
+        </div>
+    </div>
+
+  </main>
+
+
+  <footer>
     </footer>
-    <script src="data/data.js"></script>
-    <script src="script.js"></script>
+
+  <script src="script.js"></script>
 </body>
 </html>
